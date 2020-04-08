@@ -1,0 +1,7 @@
+<library path="lib/libperson_local_planner">
+  <class name="person_local_planner/PersonPlannerROS" type="person_local_planner::PersonPlannerROS" base_class_type="nav_core::BaseLocalPlanner">
+    <description>
+      A implementation of a local planner using either a person DWA approach based on configuration parameters.
+    </description>
+  </class>
+</library>
